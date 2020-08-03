@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Computing and IT at the Open University.
+🌱 I’m currently learning Computing and IT at the Open University.
 
-- 📫 How to reach me:
+📫 How to reach me:<br>
 [Twitter](https://twitter.com/ScienceTony)
