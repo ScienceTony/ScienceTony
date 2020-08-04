@@ -1,4 +1,4 @@
-### Hi, I'm Tony 👋
+# Hi, I'm Tony 👋
 
 <!--
 **ScienceTony/ScienceTony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my degree in Computing and IT.  
+# 🔭 I’m currently working on my degree in Computing and IT.  
 
 🌱 I’m currently learning Computing and IT at the Open University. I am also learning Cobol in my spare time. 
 
