@@ -28,7 +28,7 @@ I have been at the Open University for 6 years and in that time I have leaned ab
 
 ## 👯 👀 I’m looking to collaborate 
 ### Projects centered around cancer research
-- AI
+- Data analysis
 - Websites
 ### Daqtabases
 - SQL
@@ -40,5 +40,5 @@ I have been at the Open University for 6 years and in that time I have leaned ab
 Ideally, I would like a cure for all cancer, which leads me to computer science since the protein folding problem. incidentally, this is solved with the same algorithm that solves a sudoku problem.  However, this is an NP Hard problem meaning that it is too slow and current algorithms would need more time than we have left before the universe is predicted to end.  
 
 ## 📫 How to reach me:<br>
-[Twitter](https://twitter.com/ScienceTony "ScienceTony")
-[LinkedIn](www.linkedin.com/in/tony-mcdonald-sciencetony "ScienceTony")
+[Twitter](https://twitter.com/ScienceTony "ScienceTony") <br>
+[LinkedIn](www.linkedin.com/in/tony-mcdonald-sciencetony "ScienceTony") <br>
