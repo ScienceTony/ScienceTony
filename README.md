@@ -36,8 +36,9 @@ I have been at the Open University for 6 years and in that time I have leaned ab
 - MongoDB
 
 ## 🤔 I’m looking for 
-### A career in cancer research and hold a special interest in cancer awareness especially for colorectal cancer.  
-Ideally, I would like a cure for all cancer, which leads me to computer science since the protein folding problem. incidentally, this is solved with the same algorithm that solves a sudoku problem.  However, this is an NP Hard problem meaning that it is too slow and current algorithms would need more time than we have left before the universe is predicted to end.  
+### A career in cancer research
+- I hold a special interest in cancer awareness especially for colorectal cancer.  
+- Ideally, I would like a cure for all cancer, which leads me to computer science since the protein folding problem. incidentally, this is solved with the same algorithm that solves a sudoku problem.  However, this is an NP Hard problem meaning that it is too slow and current algorithms would need more time than we have left before the universe is predicted to end.  
 
 ## 📫 How to reach me:<br>
 [Twitter](https://twitter.com/ScienceTony "ScienceTony") <br>
