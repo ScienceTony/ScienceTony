@@ -30,7 +30,8 @@ I have been at the Open University for 6 years and in that time I have leaned ab
 ### Projects centered around cancer research
 - Data analysis
 - Websites
-### Daqtabases
+
+### Databases
 - SQL
 - Python
 - MongoDB
