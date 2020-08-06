@@ -24,7 +24,7 @@ I have been at the Open University for 6 years and in that time I have leaned ab
 - Computer science route
 - Covers both client side and server side
 ### I am also learning Cobol in my spare time. 
-- YouTube video tutorials
+- I make YouTube video tutorials to help others
 
 ## 👯 👀 I’m looking to collaborate 
 ### Projects centered around cancer research
