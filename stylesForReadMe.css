@@ -1,4 +1,3 @@
-#myImage {
-  border: solid;
-  border-radus: 50%;
+img {
+  border-radius: 50%;
 }
