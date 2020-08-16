@@ -33,8 +33,8 @@ I have been at the Open University for 6 years and in that time I have leaned ab
 ### Projects centered around cancer research
 - Data analysis
 - Websites
-- Cloud projects such as AWS
-- Apps using APIs
+- Cloud projects such as AWS or Open Stack
+- Apps using APIs (Software Engineering)
 
 ### Databases
 - SQL
