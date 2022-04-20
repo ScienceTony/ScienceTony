@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Computer science route
 - Covers both client side and server side
 
-I have been at the Open University for 6 years and in that time I have leaned about different aspects of computing from sofeware engernering to analysing data with python and SQL. We also covered cloud computing including AWS and Open Stack. I finished my final project, which was an an app for a mobile phone that i installed on an Andriod device.
+I was at the Open University for 7 years and in that time I leaned about different aspects of computing from sofeware engernering to analysing data with python and SQL. We also covered cloud computing including AWS and Open Stack. I finished my final project, which was an an app for a mobile phone that i installed on an Andriod device.
 
 ### I am also learning Cobol in my spare time. 
 - I make YouTube video tutorials to help others.
