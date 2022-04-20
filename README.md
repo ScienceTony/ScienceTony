@@ -19,15 +19,26 @@ Here are some ideas to get you started:
 
 
 ## 🔭 🧠 I’m currently working on 
-### My degree in Computing and IT.
-I have been at the Open University for 6 years and in that time I have leaned about different aspects of computing from sofeware engernering to analysing data with python and SQL. We also covered cloud computing including AWS and Open Stack.  At the moment I am looking at my final project, which could be an app of some sort for an Andriod phone. 
+### My education.
+ 
 
-## 🌱 🎓 I’m currently learning
+## 🌱 🎓 My degree
 ### Computing and IT at the Open University
 - Computer science route
 - Covers both client side and server side
+
+I have been at the Open University for 6 years and in that time I have leaned about different aspects of computing from sofeware engernering to analysing data with python and SQL. We also covered cloud computing including AWS and Open Stack. I finished my final project, which was an an app for a mobile phone that i installed on an Andriod device.
+
 ### I am also learning Cobol in my spare time. 
-- I make YouTube video tutorials to help others
+- I make YouTube video tutorials to help others.
+
+### I am continuingly studying the Bible.
+- I usually staudy the pentateuch, Gospels and Psalms.  I also like to look at other books in the Bible including the Apocrypha.
+
+### I am continuingly studying bibology. 
+- I mainly look at nutrition.
+- I look at cells.
+- I look at plants.
 
 ## 👯 👀 I’m looking to collaborate 
 ### Projects centered around cancer research
